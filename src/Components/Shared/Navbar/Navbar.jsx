@@ -95,7 +95,7 @@ const Navbar = () => {
         </div>
 
         <div className="navbar-end">
-          <a className="border p-2 border-black inline-flex  items-center">
+          <a className="border cursor-pointer p-2 border-black inline-flex  items-center">
             Free Consultation <FaArrowRight />
           </a>
         </div>
